@@ -1,2 +1,4 @@
-# lab5
-1st lab of 2nd sem
+# MEGALABA
+## SPECIAL LAB FOR 2ND SEMESTER
+## UML диаграмма: ![UML](/finUML.png)
+
