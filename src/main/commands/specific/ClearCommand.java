@@ -14,6 +14,7 @@ public class ClearCommand extends Command {
 			System.err.println("В команде " + getName() + " не должно быть параметров");
 		} else {
 			persons.clear();
+			System.out.println("Коллекция очищена");
 		}
 	}
 }
